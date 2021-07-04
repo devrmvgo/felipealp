@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Luiz Felipe, i'm interested in software development. I'm Full-Stack developer, i work since 2019. I started my journey working with some front-end technologies and then back-end technologies. Right now, I am working as Software Developer at [SIASP](https://www.linkedin.com/company/siasp/).
+My name is Luiz Felipe, i'm interested in software development. I'm Full-Stack developer and i work since 2019. I started my journey working with some front-end technologies and then back-end technologies. Right now, I am working as Software Developer at [SIASP](https://www.linkedin.com/company/siasp/).
 
 📫 How to reach me:
 
