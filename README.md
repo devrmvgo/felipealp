@@ -7,7 +7,7 @@ My name is Luiz Felipe, i'm interested in software development. I'm Full-Stack d
 To see more information and contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-felipealvesalp@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipealvesalp@gmail.com)](mailto:felipealvesalp@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipealps/)](https://www.linkedin.com/in/felipealps/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipealps/)](https://www.linkedin.com/in/felipealp/)
 
 <!--
 **felipealp/felipealp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
